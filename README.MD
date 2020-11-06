@@ -42,27 +42,6 @@ $ cd EmailFatiado
 3. Na pasta raiz, executar o arquivo: `index.html`
 
 ---
-## 🔗 Contribuições:
-1. Faça o fork do projeto:
-```bash
- https://github.com/EmailFatiado.git
-```
-2. Crie uma branch para sua modificação:
-```bash
- $ git checkout -b feature/[nome]
-```
-3. Faça o commit:
-```bash
- $ git commit -a -m 'Add files [nome]'
-```
-4. Push:
-```bash
-$ git push origin feature/[nome]
-```
-5. Crie um novo Pull Request.
-
-
----
 ## 🔐 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
