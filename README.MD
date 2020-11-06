@@ -1,7 +1,7 @@
 # <p align="center">Email Fatiado 📨✂️ </p>
 
 ---
-<p align="center">## Acesso Rápido:
+## <p align="center">Acesso Rápido:
 https://gabiqrm.github.io/EmailFatiado/
 </p>
 
