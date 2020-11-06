@@ -1,6 +1,8 @@
 # Email Fatiado 📨✂️ 
+
 ---
 ## Acesso Rápido:
+https://gabiqrm.github.io/EmailFatiado/
 
 ---
 <p align="center">
