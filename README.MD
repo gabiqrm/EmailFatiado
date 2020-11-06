@@ -1,0 +1,53 @@
+# Email Fatiado 📨✂️ 
+---
+## Acesso Rápido:
+
+---
+<p align="center">
+   <img src="ResultadoFinal.jpg" alt="EmailFatiado"/>
+</p>
+
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/gabiqrm/EmailFatiado)](https://github.com/gabiqrm/EmailFatiado)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/EmailFatiado)](https://github.com/gabiqrm/EmailFatiado/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/EmailFatiado)](https://github.com/gabiqrm/EmailFatiado/)
+
+</div>
+
+---
+## 📋 Sobre:
+
+Site criado a partir de um desafio proposto pela empresa Marlin, cujo o objetivo é cortar a imagem original em imagens menores (“fatias”) e montar o HTML que exibia a imagem completa utilizando as fatias.
+
+---
+## ⚙️ Tecnologias:
+
+```bash
+📍 HTML5
+```
+
+---
+## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
+```
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/EmailFatiado`
+2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd EmailFatiado`;
+3. Na pasta raiz, executar o arquivo: `index.html`
+```
+
+---
+## 🔗 Contribuições:
+```
+- Faça o fork do projeto (https://github.com/EmailFatiado)
+- Crie uma branch para sua modificação (git checkout -b feature/[nome])
+- Faça o commit (git commit -am 'Add files [nome]')
+- Push (git push origin feature/[nome])
+- Crie um novo Pull Request
+```
+---
+## 🔐 Licença:
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## 👩🏻‍💻 Desenvolvedora:
+
+Desenvolvido por Gabriela Queiroz ! 💜
