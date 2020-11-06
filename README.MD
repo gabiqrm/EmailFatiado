@@ -33,7 +33,7 @@ Site criado a partir de um desafio proposto pela empresa Marlin, cujo o objetivo
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência:
 ```bash
-$ git clone https://github.com/EmailFatiado.git`
+$ git clone https://github.com/gabiqrm/EmailFatiado.git`
 ```
 2. Acessar a pasta principal do projeto via prompt de comando:
 ```bash
