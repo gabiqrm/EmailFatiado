@@ -35,7 +35,7 @@ Site criado a partir de um desafio proposto pela empresa Marlin, cujo o objetivo
 ```bash
 $ git clone https://github.com/EmailFatiado.git`
 ```
-2. Acessar a pasta principal do projeto via prompt de comando.
+2. Acessar a pasta principal do projeto via prompt de comando:
 ```bash
 $ cd EmailFatiado
 ```
@@ -44,7 +44,7 @@ $ cd EmailFatiado
 ---
 ## 🔗 Contribuições:
 ```
-- Faça o fork do projeto (https://github.com/EmailFatiado)
+- Faça o fork do projeto (https://github.com/EmailFatiado.git)
 - Crie uma branch para sua modificação (git checkout -b feature/[nome])
 - Faça o commit (git commit -am 'Add files [nome]')
 - Push (git push origin feature/[nome])
