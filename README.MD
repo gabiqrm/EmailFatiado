@@ -1,4 +1,4 @@
-<p align="center"># Email Fatiado 📨✂️ </p>
+# <p align="center">Email Fatiado 📨✂️ </p>
 
 ---
 <p align="center">## Acesso Rápido:
