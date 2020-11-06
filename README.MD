@@ -43,13 +43,25 @@ $ cd EmailFatiado
 
 ---
 ## 🔗 Contribuições:
+1. Faça o fork do projeto:
+```bash
+ https://github.com/EmailFatiado.git
 ```
-- Faça o fork do projeto (https://github.com/EmailFatiado.git)
-- Crie uma branch para sua modificação (git checkout -b feature/[nome])
-- Faça o commit (git commit -am 'Add files [nome]')
-- Push (git push origin feature/[nome])
-- Crie um novo Pull Request
+2. Crie uma branch para sua modificação:
+```bash
+ $ git checkout -b feature/[nome]
 ```
+3. Faça o commit:
+```bash
+ $ git commit -am 'Add files [nome]'
+```
+4. Push:
+```bash
+$ git push origin feature/[nome]
+```
+5. Crie um novo Pull Request.
+
+
 ---
 ## 🔐 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
