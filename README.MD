@@ -53,7 +53,7 @@ $ cd EmailFatiado
 ```
 3. Faça o commit:
 ```bash
- $ git commit -am 'Add files [nome]'
+ $ git commit -a -m 'Add files [nome]'
 ```
 4. Push:
 ```bash
