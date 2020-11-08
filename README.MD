@@ -27,6 +27,7 @@ Site criado a partir de um desafio proposto pela empresa Marlin, cujo o objetivo
 
 ```bash
 📍 HTML5
+📍 CSS3
 ```
 
 ---
