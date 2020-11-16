@@ -40,7 +40,7 @@ $ git clone https://github.com/gabiqrm/EmailFatiado.git
 ```bash
 $ cd EmailFatiado
 ```
-3. Na pasta raiz, dê duplo clique no arquivo: `index.html` para abrir o site no navegador.
+3. Na pasta raiz, dê duplo clique no arquivo `index.html` para abrir o site no navegador.
 
 ---
 ## 🔐 Licença:
